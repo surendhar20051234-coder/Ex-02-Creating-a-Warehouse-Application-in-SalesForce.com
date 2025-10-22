@@ -1,6 +1,5 @@
 # Ex-05-Creating-a-Warehouse-Application-in-SalesForce.com
-## Name : VARSHA A
-## Reg NO : 212223220121
+
 ## AIM:
 To create a warehouse application in salesforce.com
 
